@@ -1,2 +1,5 @@
 mss==10.1.0
+pypiwin32==223
 pywin32==311
+setuptools==80.9.0
+win10toast==0.9
