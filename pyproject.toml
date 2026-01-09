@@ -1,0 +1,27 @@
+[project]
+name = "auto-folder-screenshot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "mss==10.1.0",
+    "pypiwin32==223",
+    "pywin32==311",
+    "setuptools==80.9.0",
+    "typing-extensions==4.15.0",
+    "win11toast==0.36.2",
+    "winrt-runtime==3.2.1",
+    "winrt-windows-data-xml-dom==3.2.1",
+    "winrt-windows-foundation==3.2.1",
+    "winrt-windows-foundation-collections==3.2.1",
+    "winrt-windows-globalization==3.2.1",
+    "winrt-windows-graphics-imaging==3.2.1",
+    "winrt-windows-media-core==3.2.1",
+    "winrt-windows-media-ocr==3.2.1",
+    "winrt-windows-media-playback==3.2.1",
+    "winrt-windows-media-speechsynthesis==3.2.1",
+    "winrt-windows-storage==3.2.1",
+    "winrt-windows-storage-streams==3.2.1",
+    "winrt-windows-ui-notifications==3.2.1",
+]
