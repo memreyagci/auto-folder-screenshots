@@ -33,7 +33,7 @@ git clone https://github.com/memreyagci/auto-folder-screenshots
 
 Install dependencies:
 ```sh
-pip install -r requirements.txt
+uv sync
 ```
 
 Update the following variables in **[run.py](./run.py)**:
